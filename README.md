@@ -49,3 +49,9 @@ O objetivo desta UC foi transitar da lógica de programação estruturada para a
 * **Controlo de Versão:** Git & GitHub.
 
 ---
+
+### 🔍 Atividade 1 — Lógica Base e Caixas de Diálogo em Java
+* **Foco:** Implementação de um MVP em Java puramente via código (sem recurso a editores visuais), garantindo validações robustas e tratamento de exceções.
+* **Pré-visualização da Aplicação:**
+
+![Atividade 1 - MVP em Java](Atividde_01_UC09.png)
