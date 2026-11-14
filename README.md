@@ -59,6 +59,8 @@ O objetivo desta UC foi transitar da lógica de programação estruturada para a
 
 ---
 
+---
+
 ### 🔍 Atividade 2 — Desenvolvimento de Interface Gráfica e Padronização Visual (NutriSoft)
 
 * **Foco:** Criação de um sistema desktop em Java Swing com múltiplas janelas (`TelaPrincipal`, `Telaimc`, `TelaGastoCalorico`, `TelaRecomendacoes`), padronização de dimensões fixas (`800x505`), fundos limpos em branco e identidade visual integrada com logo própria.
