@@ -55,3 +55,13 @@ O objetivo desta UC foi transitar da lógica de programação estruturada para a
 * **Pré-visualização da Aplicação:**
 
 ![Atividade 1 - MVP em Java](Atividde_01_UC09.png)
+
+
+---
+
+### 🔍 Atividade 2 — Desenvolvimento de Interface Gráfica e Padronização Visual (NutriSoft)
+
+* **Foco:** Criação de um sistema desktop em Java Swing com múltiplas janelas (`TelaPrincipal`, `Telaimc`, `TelaGastoCalorico`, `TelaRecomendacoes`), padronização de dimensões fixas (`800x505`), fundos limpos em branco e identidade visual integrada com logo própria.
+* **Pré-visualização da Aplicação:**
+
+![Pré-visualização da Atividade 2 - NutriSoft](Atividade_02_UC09.png)
