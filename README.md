@@ -67,3 +67,12 @@ O objetivo desta UC foi transitar da lógica de programação estruturada para a
 * **Pré-visualização da Aplicação:**
 
 ![Pré-visualização da Atividade 2 - NutriSoft](Atividade_02_UC09.png)
+
+
+---
+
+### 🔍 Atividade 3 — Sistema de Agendamento e Gestão de Consultas (NutriSoft)
+
+* **Foco:** Evolução do sistema desktop em Java Swing com integração de novas funcionalidades de agendamento, criação dinâmica de janelas de cadastro (`TelaCadastro`) e detalhes (`TelaDetalhes`), manipulação de listas em memória (`ListaConsulta`), padronização de dimensões fixas (`800x505`), fundos limpos em branco e validações de preenchimento.
+* **Pré-visualização da Aplicação:**
+![Pré-visualização da Atividade 3](./Atividade%2003%20UC%2009%20Diego%20Rodrigues.png)
